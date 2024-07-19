@@ -1,20 +1,13 @@
 ## 👋 Hi, I’m @Zerfette
-I am a JavaScript enthusiast with a B.S. in Mathematics.
+I'm a full stack developer with almost a decade of experience in crafting elegant and efficient user interfaces. Passionate about innovation and continuous learning, I'm always exploring new technologies and techniques to enhance user experiences. Let's collaborate and create something amazing!
 
 ## ✨I'm interested in
- - Javascript & Node.js
- - Typescript
- - React 17 & React Native
- - Redux & Reselect
- - Vue 3 & Vue Native
- - Vuex & Pinia
- - NativeScript
  - Functional Programming & Group Theory
- - Google App Script
- - Node-Red
+ - Web and Mobile Technologies
+ - Public Speaking & Collaboration
 
 ## ❤️ My favorite project
-https://github.com/Zerfette/sudoku-react-ts
+[nx-sudoku-multiframework](https://github.com/Zerfette/nx-sudoku-multiframework)
 
 ![image](https://user-images.githubusercontent.com/38385070/155409672-b21d6d41-0b4c-4662-8eb8-b931e75425bd.png)
 
