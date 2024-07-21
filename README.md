@@ -13,8 +13,4 @@ This "Sudoku" repository uses Nx, a powerful monorepo tool, to manage Sudoku app
 - https://vue.zerf.dev/
 - https://svelte.zerf.dev/
 - https://solid.zerf.dev/
-
-<!---
-Zerfette/Zerfette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- https://react.zerf.dev/
